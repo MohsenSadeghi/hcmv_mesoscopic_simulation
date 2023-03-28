@@ -2,7 +2,7 @@
 
 This repository holds the codes used for analyzing the mesoscopic simulations of a whole virion.
 
-Please use the Jupyter Notebook file ```.HCMV_radial_distribution_of_species.ipynb``` to run the code for the analysis. 
+Please use the Jupyter Notebook file ```HCMV_radial_distribution_of_species.ipynb``` to run the code for the analysis. 
 
 The notebook also contains the code to automatically download an instance of the simulation trajectory from the online repository.
 
